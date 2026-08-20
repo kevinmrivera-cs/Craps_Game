@@ -1,4 +1,3 @@
-# Craps_Game
 # Lucky Seven Craps Casino
 
 Lucky Seven Craps Casino is a Java Swing implementation of the classic casino dice game. It features standard Craps rules, player betting, bank management, animated dice rolls, sound effects, and a casino-themed interface.
